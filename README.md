@@ -25,7 +25,7 @@ I am a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 - :zap: In my free time, I study foreign languages and play some games with my friends.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Matheus-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/matheusoliveira0/)
-- 
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
