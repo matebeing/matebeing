@@ -17,6 +17,10 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Introdução à Acessibilidade Web](https://dev.to/matebeing/introducao-a-acessibilidade-web-pc8)
+- [HTML Semântico: DIV nunca mais.](https://dev.to/matebeing/html-semantico-div-nunca-mais-23pf)
+- [Estrutura Básica do HTML](https://dev.to/matebeing/estrutura-basica-do-html-4h74)
+- [SGML e sua relação com HTML](https://dev.to/matebeing/sgml-e-sua-relacao-com-html-3opk)
 <!-- BLOG-POST-LIST:END -->
 
 
