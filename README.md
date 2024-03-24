@@ -37,6 +37,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=matebeing&show_icons=true&locale=en&layout=compact" alt="matebeing" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=matebeing&show_icons=true&locale=en" alt="matebeing" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=matebeing&" alt="matebeing" /></p>
